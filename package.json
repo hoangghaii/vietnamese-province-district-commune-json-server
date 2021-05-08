@@ -1,0 +1,14 @@
+{
+  "name": "vietnamese-province-json-serve",
+  "version": "1.0.0",
+  "description": "fake json serve vietnameses ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "_hhaai_",
+  "license": "ISC",
+  "dependencies": {
+    "json-serve": "^0.1.0"
+  }
+}
